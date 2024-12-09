@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janith Jayarathne</h1>
 <h3 align="center">I'm undergraduate student at university of greenwich</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithjayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="janithjayarathne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janithjayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="janithjayarathne" /> </p>
 
 ---
 
